@@ -10,3 +10,5 @@ Link:
 <img width="815" height="194" alt="Screenshot from 2025-12-03 13-43-46" src="https://github.com/user-attachments/assets/01311516-8bae-4a72-9e62-d9e8c4ecf534" />
 
 All UI are in czech.
+
+Templater plugin: https://github.com/SilentVoid13/Templater
